@@ -4,6 +4,8 @@ Legendas:
 
 Curso_1 = HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
 
+Link do portifólio do curso 1 no figma: https://www.figma.com/file/4EKKCbr5rS93RWP7kRjXIz/Portfolio---Curso-1?node-id=0-1
+
 Curso_2 = HTML e CSS: Classes, posicionamento e Flexbox
 
 Curso_3 = HTML e CSS: cabeçalho, footer e variáveis CSS
